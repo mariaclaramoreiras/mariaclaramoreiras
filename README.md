@@ -2,22 +2,24 @@
 
 
 
-- 🔭 I’m currently working on javascript,react and node.js ...
-- 🌱 I’m currently learning abor new tech´s...
-- 👯 I’m looking to collaborate on a new program,call me ...
+- 🔭 Estou trabalhando recentemente em um projeto javascript,react and node.js,para uma multinacional bem forte ...
+- 🌱 Estou aprendendo tech´s...
+- 👯 Estou buscando colaborar om novas implementações para aprender mais a cada dia ...
 
-## Oiii eu sou a Maria,e estou me graduando em Sistemas
+## Oiii eu sou a Maria,e estou no 7º período de Sistemas de informação.
+Tenho 22 aninhos e estou sempre buscando aprender mais.
 <div align="center">
   <a href="https://github.com/mariaclaramoreiras">
  
 
 
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/EVhmVI1XsAIhuo3?format=jpg&name=small"">
+</div>
   
-  ##
  
 <div> 
  
