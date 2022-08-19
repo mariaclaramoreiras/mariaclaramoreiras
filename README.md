@@ -6,8 +6,7 @@
 - 🌱 Estou aprendendo tech´s...
 - 👯 Estou buscando colaborar om novas implementações para aprender mais a cada dia ...
 
-## Oiii eu sou a Maria,e estou no 7º período de Sistemas de informação.
-Tenho 22 aninhos e estou sempre buscando aprender mais.
+## Oiii eu sou a Maria,e estou no 7º período de Sistemas de informação.Tenho 22 aninhos e estou sempre buscando aprender mais.
 <div align="center">
   <a href="https://github.com/mariaclaramoreiras">
  
